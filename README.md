@@ -1,2 +1,0 @@
-# srinidev
-dev
